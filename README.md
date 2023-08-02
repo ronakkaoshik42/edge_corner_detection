@@ -1,4 +1,4 @@
-# edge_corner_detection
+# Edge and Corner detection from scratch
 
 The given two notebooks have the Canny edge detection and Harris corner algorithm implemented separately.
 These image processing algorithms have been implemented from scratch
